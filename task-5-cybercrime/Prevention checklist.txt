@@ -1,0 +1,9 @@
+Prevention Checklist
+-Never share OTP or PIN
+-Use secure websites (https)
+-Enable two-factor authentication
+-Avoid public Wi-Fi for transactions
+-Verify unknown messages
+-Use strong passwords
+-Report fraud at 1930
+-Use cybercrime.gov.in

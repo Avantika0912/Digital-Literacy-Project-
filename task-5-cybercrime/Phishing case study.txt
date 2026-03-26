@@ -1,0 +1,5 @@
+Phishing is one of the most common cybercrimes in which the attacker tries to obtain critical information like passwords, bank details, or OTPs by pretending to be the original sender. This type of cybercrime is usually done through fake emails, messages, or websites.
+
+In the past few years, many people have fallen prey to phishing attacks in the form of UPI scams. They receive messages regarding rewards and other important actions, which makes them click on the links and share their critical information with the attackers. Once the attackers obtain the information, they misuse it and steal the money.
+
+The above case study emphasizes the need to be aware and cautious about the use of technology. People should be careful before sharing any kind of information and should not click on any suspicious links. Cybercrime is growing at a tremendous pace, and we should be aware of the latest updates in this field.
